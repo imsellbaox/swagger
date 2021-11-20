@@ -1,6 +1,6 @@
 #Swagger
 
-##1.依赖导入
+## 1.依赖导入
 ```
 Swagger功能
 <dependency>
@@ -18,7 +18,7 @@ SwaggerUI页面
 ```
 
 
-##2.编写config
+## 2.编写config
 
 写一个swaggerConfig类
 @Configuration
